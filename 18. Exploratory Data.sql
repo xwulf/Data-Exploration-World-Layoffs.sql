@@ -191,5 +191,3 @@ Select *
 From company_year_rank
 Where Ranking <= 5
 ;
-
--- Watch ALex portfolio video and add MySQL projects to your portfolio
